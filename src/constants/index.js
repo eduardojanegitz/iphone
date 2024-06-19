@@ -16,7 +16,6 @@ export const navLists = [
   "iPhone",
   "Watch",
   "AirPods",
-  "TV e Casa",
   "Entretenimento",
   "Acessórios",
   "Suporte",
@@ -25,33 +24,28 @@ export const navLists = [
 export const hightlightsSlides = [
   {
     id: 1,
-    textLists: [
-      "Enter A17 Pro.",
-      "Game‑changing chip.",
-      "Groundbreaking performance.",
-    ],
+    textLists: ["O chip A17 Pro entra em cena.", "E nada será como antes."],
     video: highlightFirstVideo,
     videoDuration: 4,
   },
   {
     id: 2,
-    textLists: ["Titanium.", "So strong. So light. So Pro."],
+    textLists: ["Titânio.", "Muito robusto. Muito leve.", " Muito Pro."],
     video: highlightSecondVideo,
     videoDuration: 5,
   },
   {
     id: 3,
     textLists: [
-      "iPhone 15 Pro Max has the",
-      "longest optical zoom in",
-      "iPhone ever. Far out.",
+      "iPhone 15 Pro Max.",
+      "De longe, o maior zoom óptico em um iPhone",
     ],
     video: highlightThirdVideo,
     videoDuration: 2,
   },
   {
     id: 4,
-    textLists: ["All-new Action button.", "What will yours do?."],
+    textLists: ["Novo botão de Ação", "O que você quer que ele faça?."],
     video: highlightFourthVideo,
     videoDuration: 3.63,
   },
