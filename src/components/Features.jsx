@@ -52,7 +52,7 @@ const Features = () => {
         </div>
 
         <div className="flex flex-col justify-center items-center overflow-hidden">
-          <div className="mt-32 mb-34 pl-24">
+          <div className="mt-32 mb-24 pl-24">
             <h2 className="text-5xl lg:text-7xl font-semibold">Um iPhone</h2>
             <h2 className="text-5xl lg:text-7xl font-semibold">
               forjado em titânio.
@@ -95,8 +95,9 @@ const Features = () => {
               <div className="feature-text-container">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    iPhone 15 Pro é{" "}
+                    iPhone 15 Pro é
                     <span className="text-white">
+                      {" "}
                       o primeiro iPhone com design em titânio aeroespacial
                     </span>{" "}
                     e a mesma liga usada nas espaçonaves das missões em Marte.
@@ -106,8 +107,9 @@ const Features = () => {
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
                     O titânio tem uma das melhores relações resistência-peso
-                    entre todos os metais e, por isso, estes são{" "}
+                    entre todos os metais e, por isso, estes são
                     <span className="text-white">
+                      {" "}
                       os modelos Pro mais leves até hoje.
                     </span>{" "}
                     Você vai notar a diferença assim que tiver um deles nas
