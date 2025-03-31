@@ -60,4 +60,4 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga os 
 
 ---
 
-Este projeto foi desenvolvido com propósitos educacionais e não tem nenhuma afiliação com a Apple Inc. Todos os direitos sobre o conteúdo original são reservados aos seus respectivos proprietários.
+Este projeto foi desenvolvido com propósitos educacionais e não tem nenhuma afiliação com a Apple Inc. Todos os direitos sobre o conteúdo original são reservados aos seus respectivos proprietários. 
